@@ -133,6 +133,6 @@ not represented here.
 
 | Commit | Scope |
 |---|---|
-| `a5a3011` | Report: 23-page PDF with its full LaTeX source |
+| `fe8619e` | Report: 23-page PDF with its full LaTeX source |
 | `e0a34f1` | Presentation: layout, all slide figures and the compiled PDF |
 | `ccd2f37` | Boundary-row audit: script and saved results |
